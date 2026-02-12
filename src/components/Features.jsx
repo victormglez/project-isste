@@ -1,6 +1,6 @@
 export default function Features() {
   return (
-    <section className="">
+    <section>
       <div>
         <p>
           En México, los trastornos neurológicos son la primera causa de
