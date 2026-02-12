@@ -1,0 +1,21 @@
+/* Asegura altura completa */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+/* Contenedor principal */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Footer normal */
+footer {
+  background-color: #6b0f2c; /* vino */
+  color: white;
+  padding: 2rem 1rem;
+}
